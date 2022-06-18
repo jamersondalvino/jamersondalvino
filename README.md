@@ -47,4 +47,4 @@ src="https://img.shields.io/github/followers/jamersondalvino?logo=github&style=f
 
 <a href="http://www.github.com/jamersondalvino"><img src="https://activity-graph.herokuapp.com/graph?username=jamersondalvino&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamersondalvino&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/jamersondalvino/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamersondalvino&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/jamersondalvino)
