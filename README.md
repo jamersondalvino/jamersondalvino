@@ -18,7 +18,7 @@
 
 Sou desenvolvedor Full Stack com foco em **performance, escalabilidade e entrega de valor real**. Construo soluções digitais completas — do planejamento ao deploy — para empresas e empreendedores que querem resultados concretos.
 
-- 🌍 Baseado em **Arapiraca, Alagoas — Brasil**
+- 🌍 **Arapiraca, Alagoas — Brasil**
 - 💼 Especialista em **Sites, Sistemas Web, Apps Mobile, E-commerce, ERP, Formulários Inteligentes**
 - ⚡ Entrego **MVPs funcionais em até 1 semana** com metodologia Agile
 - 🤝 Aberto a colaborações em projetos de alto impacto
