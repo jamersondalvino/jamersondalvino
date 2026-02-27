@@ -127,8 +127,8 @@ Com mais de 10 anos no mercado, entrego do zero soluções completas — sites i
 
 ![Alura](https://img.shields.io/badge/Alura-0747A6?style=flat-square&logo=alura&logoColor=white)
 ![Rocketseat](https://img.shields.io/badge/Rocketseat-7B2FBE?style=flat-square&logo=rocket&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
-![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
+![Estácio](https://img.shields.io/badge/Estácio-003087?style=flat-square&logo=graduation-cap&logoColor=white)
+![FIAP](https://img.shields.io/badge/FIAP-ED1C24?style=flat-square&logo=academia&logoColor=white)
 
 </div>
 
