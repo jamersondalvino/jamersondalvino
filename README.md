@@ -16,13 +16,16 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor Full Stack com foco em **performance, escalabilidade e entrega de valor real**. Construo soluções digitais completas — do planejamento ao deploy — para empresas e empreendedores que querem resultados concretos.
+**Transformo ideias em produtos digitais que geram receita.**
+
+Com mais de 10 anos no mercado, entrego do zero soluções completas — sites institucionais, sistemas sob medida, e-commerces, ERPs, apps mobile e formulários inteligentes — usando tecnologias performáticas e estáveis, com código limpo e arquitetura escalável.
 
 - 🌍 **Arapiraca, Alagoas — Brasil**
-- 💼 Especialista em **Sites, Sistemas Web, Apps Mobile, E-commerce, ERP, Formulários Inteligentes**
-- ⚡ Entrego **MVPs funcionais em até 1 semana** com metodologia Agile
-- 🤝 Aberto a colaborações em projetos de alto impacto
-- 📬 Contato: [jamersondalvino@gmail.com](mailto:jamersondalvino@gmail.com)
+- 💡 MVPs **prontos para o mercado em até 1 semana** com metodologia Agile
+- 🏗️ **Web, Mobile, E-commerce, ERP e Sistemas Sob Medida**
+- 📈 Foco em **resultados concretos**: performance, conversão e crescimento do negócio
+- 🤝 **Disponível** para projetos freelancer, parcerias e contratos
+- 📬 Fale comigo: [jamersondalvino@gmail.com](mailto:jamersondalvino@gmail.com)
 
 ---
 
